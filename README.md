@@ -2,7 +2,7 @@
 
 Um site moderno e responsivo para apresentação de carros, desenvolvido com foco em performance, usabilidade e design atrativo. Criado utilizando **HTML**, **CSS** e **JavaScript**, seguindo a abordagem **Mobile First** para garantir uma excelente experiência em todos os dispositivos.
 
-![Preview](/preview.png)
+🔗 **Acesse o site aqui:** [https://seusite.com](https://devilasboas.github.io/responsive-car-website/)
 
 ## 📱 Responsivo e Acessível
 
