@@ -2,7 +2,7 @@
 
 Um site moderno e responsivo para apresentação de carros, desenvolvido com foco em performance, usabilidade e design atrativo. Criado utilizando **HTML**, **CSS** e **JavaScript**, seguindo a abordagem **Mobile First** para garantir uma excelente experiência em todos os dispositivos.
 
-🔗 **Acesse o site aqui:** [AVENTADOR](https://devilasboas.github.io/responsive-car-website/)
+🔗 **Acesse o site aqui:** [AVENTADOR](https://devilasboas.github.io/aventador/)
 
 ## 📱 Responsivo e Acessível
 
